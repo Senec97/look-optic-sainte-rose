@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://look-optic-sainte-rose.pages.dev/sitemap.xml

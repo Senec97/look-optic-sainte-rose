@@ -1,0 +1,11 @@
+{
+  "name": "Look Optic",
+  "short_name": "Look Optic",
+  "description": "Opticien indépendant à Sainte-Rose, Guadeloupe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#18181B",
+  "lang": "fr",
+  "icons": [{"src": "/assets/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
